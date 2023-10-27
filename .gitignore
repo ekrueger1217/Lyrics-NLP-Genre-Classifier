@@ -1,5 +1,5 @@
 #secret folder with personal id info
-*.rft
+*.rtf
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
