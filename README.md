@@ -52,12 +52,12 @@ On unseen test data, the random forest model trained on count vectorized data ha
 ## Recommendations and Next Steps
 I recommend using this model to create genre based playlists given a set of songs or to evaluate and tag genres of new songs that are added to a given streaming platform.
 
-I do acknowledge that this model is only a starting point and there is room for significant improvement. I believe one or both of the following next steps are necessary to improve this model for future use:
+This model is only a starting point and there is room for significant improvement. I believe one or both of the following next steps are necessary to improve this model for future use:
 1. Train model on a far larger dataset to improve model performance. With this, there is an opportunity to add additional genres to the analysis to build a more comprehensive and useful model
 2. This problem cannot be solved with lyrics alone and there is an opportunity to add additional musical attributes as features in predicting genre
 
 ## Additional Materials
-Please review my full analysis in our [Jupyter Notebook](./NLP_Lyrics_Genre_Classifier.ipynb) and our [Presentation](./Lyrics_NLP_Genre_Classifier_Pres.pdf) 
+Please review my full analysis in this [Jupyter Notebook](./NLP_Lyrics_Genre_Classifier.ipynb) and this [Presentation](./Lyrics_NLP_Genre_Classifier_Pres.pdf) 
 
 
 
